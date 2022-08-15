@@ -29,3 +29,6 @@ func AddTerminalSubCmds(rootCmd *cobra.Command, cfg *config.Config) error {
 
 	return nil
 }
+brew install stripe/stripe-
+
+cli/stripe
